@@ -1,3 +1,6 @@
+# retweetpolls
+A script to retweet your polls at a set time- great for visibility across timezones.
+
 Do you live in not North America? Are you disappointed that your banger polls get low engagement because the Americans and Canadians are sleeping?
 Do you live in the Americas, but you're disappointed by east/west coast time differences (let's face it- no one lives in the middle)?
 I have a solution for you: a retweet polls script.
@@ -17,3 +20,4 @@ Gratitudes and acknowledgements:
 
 Limitations:
 * This will not work for media polls. As of now, you have to pay for those anyway at ads.twitter.com
+
