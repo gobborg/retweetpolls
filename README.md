@@ -23,7 +23,7 @@ Limitations:
 * This will not work for media polls. As of now, you have to pay for those anyway at ads.twitter.com
 
 Instructions:
-* You can copy/paste your API keys directly into the retweetpolls.py file, or you can import them like I do. I have my import file set up as keys.py, and it contains:
+* You can copy/paste your API keys directly into the retweetpolls.py file, or you can import them like I do. I have my import file set up as keys.py, and it contains:  
     Consumer_API_key = 'REDACTED'  
     Consumer_API_secret_key = 'REDACTED'  
     Bearer_token = 'REDACTED'  
