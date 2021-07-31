@@ -24,10 +24,10 @@ Limitations:
 
 Instructions:
 * You can copy/paste your API keys directly into the retweetpolls.py file, or you can import them like I do. I have my import file set up as keys.py, and it contains:
-	Consumer_API_key = 'REDACTED'
-	Consumer_API_secret_key = 'REDACTED'
-	Bearer_token = 'REDACTED'
-	Access_token = 'REDACTED'
-	Access_secret = 'REDACTED'
+    Consumer_API_key = 'REDACTED'  
+    Consumer_API_secret_key = 'REDACTED'  
+    Bearer_token = 'REDACTED'  
+    Access_token = 'REDACTED'  
+    Access_secret = 'REDACTED'  
 * Change the Advanced Search operators to whatever you want them to be.
 * Set up your cronjob.
